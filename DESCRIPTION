@@ -1,0 +1,20 @@
+Package: psimocks
+Title: PSI Shiny Mocks
+Version: 0.0.0.9000
+Authors@R: 
+    person("Gareth", "Burns", , "gareth.burns@exploristics.com", role = c("cre", "aut"))
+Description: A package to mock up ideas and prototypes for feedback
+License: What license is it under?
+Imports: 
+    bslib,
+    config (>= 0.3.1),
+    datamods,
+    DT,
+    golem (>= 0.4.1),
+    pkgload,
+    reactable,
+    shiny (>= 1.7.4),
+    shinyWidgets
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
